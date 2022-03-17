@@ -7,7 +7,7 @@ In Between Dreams is the third studio album by singer-songwriter Jack Johnson, r
 
 [Buy at fnac here](https://www.fnac.com/a2256131/Jack-Johnson-In-between-dreams-CD-album)
 
-_**No	Titre	Durée**_
+_**Title	Duration**_
 - Better Together	3:27
 - Never Know	3:32
 - Banana Pancakes	3:12
