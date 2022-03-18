@@ -8,5 +8,9 @@ Today is friday
 
 this line was added from my computer! 
 
+<<<<<<< HEAD
 Another remote modification 
 
+=======
+Another local modification 
+>>>>>>> b6b6088 (another computer modif)
